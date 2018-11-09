@@ -1,6 +1,7 @@
 theme: jekyll-theme-architec
 
-lsi: false safe: true
+lsi: false
+safe: true
 source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
