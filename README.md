@@ -7,3 +7,5 @@ This is my tutorial repository.
 $$
 e^{i\pi}=-1
 $$
+
+\[e^{i\pi}=-1\]
